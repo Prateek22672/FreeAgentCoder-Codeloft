@@ -2,7 +2,7 @@
 
 | File | Version | SHA-256 |
 | --- | --- | --- |
-| [freeagentcoder-0.4.0.vsix](freeagentcoder-0.4.0.vsix) | 0.4.0 | `7ef07d506895d3c971f063563c8d28d85e6b08f344d43c5243c82350f2a4de7d` |
+| [freeagentcoder-0.4.0.vsix](freeagentcoder-0.4.0.vsix) | 0.4.0 | `46b7a86188820f5cfe78516c6a3bf01dff9e17e30568bfe5e273fea01c626d81` |
 
 ## Install from the file
 
