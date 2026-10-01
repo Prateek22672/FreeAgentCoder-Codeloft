@@ -2,6 +2,10 @@
 
 Free tiers are small. Some cap a single request at about 6,500 tokens, and most count requests per day. A coding agent that wastes requests stops halfway through a task, so Free Agent Coder is built to do more with fewer, smaller calls.
 
+## No model at all, for chores
+
+**Fyx**, the built-in task engine, does everyday jobs without an AI model: zipping and unzipping, git (status, pull, push, commit with your message, branches, clone, fork), installing packages, running your project's scripts, and creating, moving or copying files. It plans the exact commands for your platform and shell and runs them through the same permission prompts. One measured request, zipping a project folder, took an AI model 4 minutes 36 seconds and 17,000 tokens; Fyx took 0.2 seconds and none. It learns: a short request the agent finishes with a single command is done by Fyx the next time.
+
 ## Fewer requests
 
 - **Tasks are sized before they start.** A quick question gets a short, cheap path. Only builds, debugging and multi-file work get the full treatment.

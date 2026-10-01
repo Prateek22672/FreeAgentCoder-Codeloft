@@ -10,7 +10,9 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-2ea043" alt="MIT licence"></a>
 </p>
 
-Free Agent Coder plans, writes, runs and checks code in your project. It works like the paid coding agents (Copilot, Cursor, Claude Code, Codex), but it runs on the free tiers of AI providers, with keys you own. There is no subscription and no account.
+Free Agent Coder plans, writes, runs and checks code in your project. Everyday chores such as running a project on localhost, zipping a folder or pushing to git are done by **Fyx**, its built-in task engine, on your machine without an AI model: in seconds, with no tokens.
+
+It works like the paid coding agents (Copilot, Cursor, Claude Code, Codex), but it runs on the free tiers of AI providers, with keys you own. There is no subscription and no account.
 
 <table>
   <tr>
