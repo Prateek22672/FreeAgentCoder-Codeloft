@@ -22,6 +22,7 @@
 - how many keys you have, and which providers;
 - how many tasks ran and how they ended;
 - short causes for failures, such as `gemini:daily-limit`.
+- for a quality score: how many tasks you then corrected, how many changed code and passed a check afterwards, and how many model requests and tokens they used. All counts, never content.
 
 Never your code, prompts, file or project names, keys, or anything identifying you or your machine. The question is never asked if you have turned telemetry off in VS Code. **Free Agent Coder: Anonymous Usage Data** shows the exact text that would be sent, and lets you stop at any time.
 
